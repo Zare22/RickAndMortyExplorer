@@ -8,3 +8,12 @@ captures
 .cxx
 local.properties
 xcuserdata
+
+build/
+*/build/
+.gradle/
+
+.kotlin/
+
+*.iml
+*.iws
